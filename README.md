@@ -267,7 +267,7 @@ This paper should therefore be understood as a theoretical framework for future 
 
 ## License
 
-This repository was released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)** if the author wants others to share and adapt the work with proper credit.
+This repository is released under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**, allowing others to share and adapt the work with proper credit.
 
 License:
 
